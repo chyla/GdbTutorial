@@ -19,7 +19,7 @@ Vagrant.configure("2") do |config|
     apt-get update
     apt-get upgrade -y
  
-    apt-get install -y gdb g++  
+    apt-get install -y make gdb g++  
 
     SHELL
 end
