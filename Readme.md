@@ -10,6 +10,7 @@ All you need is:
 * Linux
 * GDB
 * GCC
+* Make
 
 You could also use Vagrant environment. [Go here](https://www.vagrantup.com/intro/index.html) to learn more about it.
 
